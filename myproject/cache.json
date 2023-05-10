@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "FWRV2GozahSipz1vJG1xP9uYAvqv9iMmLeVWbYWgGCPh",
+    "candyMachineCreator": "4opBSJpRjEheEc9j7SN9hSPiR2xKvUuebeqYaTocMYv3",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Number #0001",
+      "image_hash": "61f3f096a03d1673462e9fc6d70033efbe94fc765fcefd6fa5333b5f1e523c9a",
+      "image_link": "https://nftstorage.link/ipfs/bafybeidxugjahrjdtsez4mumb2yscsgflqz6euq6kkqryztovwj7ck3w2i/0.jpeg",
+      "metadata_hash": "120454f1b7ddf445e474d2a9fefad64c13ebbb612dbfe1beae3ced3714176401",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeicesgknxgk5czulwyrjibgp7fdaynmuqgfqlutto4xc4qxsr66ibm/0.json",
+      "onChain": true
+    }
+  }
+}
